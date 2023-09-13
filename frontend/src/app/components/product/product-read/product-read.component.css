@@ -1,0 +1,9 @@
+.edit{
+    margin-right: 3px;
+}
+.edit > i{
+    color: rgb(209, 207, 95);
+}
+.delete > i{
+    color: rgb(187, 81, 81);
+}
